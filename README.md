@@ -20,6 +20,6 @@ pip install -r reqirements.txt
 
 ### How to use the code
 
-1. Run the dataset_creation file after downloading the data from https://registry.opendata.aws/c2smsfloods/.
-2. Run the flood_mapping_cloud_native_foss4g23.ipynb file to train and perform inference on the model.
+1. Run the [dataset_creation.py](https://github.com/amanbagrecha/Foss4gAsia2023/blob/main/dataset_creation.py) file after downloading the data from https://registry.opendata.aws/c2smsfloods/.
+2. Run the [flood_mapping_cloud_native_foss4g23.ipynb](https://github.com/amanbagrecha/Foss4gAsia2023/blob/main/flood_mapping_cloud_native_foss4g23.ipynb) file to train and perform inference on the model.
 
